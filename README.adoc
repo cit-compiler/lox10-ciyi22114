@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/6g7DKJX-)
 :linkcss:
 :stylesdir: css
 :stylesheet: mystyle.css
@@ -66,7 +65,7 @@ primary     ::= ...  /* 一次式の規則 */
 [source]
 .lox_expr.bnf（最終的なLoxの式の文法）
 ----
-include::{sourcesdir}/lox_expr.bnf[]
+include::codes/lox_expr.bnf[]
 ----
 
 . 作成できたら、このリポジトリをコミットしなさい。
